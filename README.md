@@ -23,4 +23,4 @@ This project contains SQL scripts for a Music Store database. The database is de
 3. Execute the script to create and populate the database.
 
 ## 📞 Contact
-For any queries, reach out at **your.email@example.com**.
+For any queries, reach out at **arshadshaikhall7@gmail.com**.
